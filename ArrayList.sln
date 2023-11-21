@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "..\Queue\Queue.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HasTable", "..\HasTable\HasTable.csproj", "{97A7102A-8871-4DD8-A91B-D5F06EA931D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedList", "..\SortedList\SortedList.csproj", "{29086F38-8DAE-4781-A9C0-03890FC76BD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "..\List\List.csproj", "{50AFB522-07E3-419B-B89D-FE867B08A04C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{97A7102A-8871-4DD8-A91B-D5F06EA931D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97A7102A-8871-4DD8-A91B-D5F06EA931D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97A7102A-8871-4DD8-A91B-D5F06EA931D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29086F38-8DAE-4781-A9C0-03890FC76BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29086F38-8DAE-4781-A9C0-03890FC76BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29086F38-8DAE-4781-A9C0-03890FC76BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29086F38-8DAE-4781-A9C0-03890FC76BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50AFB522-07E3-419B-B89D-FE867B08A04C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50AFB522-07E3-419B-B89D-FE867B08A04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50AFB522-07E3-419B-B89D-FE867B08A04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50AFB522-07E3-419B-B89D-FE867B08A04C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,6 @@ namespace ArrayListt
     public class ArrayListt
     {
         ArrayList arraylist = null;
-
         public int Index {  get; set; }
         public ArrayListt() 
         {
